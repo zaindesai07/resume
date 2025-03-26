@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zain desai- Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>zain desaie</h1>
+        <p>I am Zain Desai, a first-year engineering student at Father Conceicao Rodrigues College of Engineering (FRCRCE), Bandra, Mumbai. Passionate about technology and problem-solving, I have a strong foundation in HTML, CSS, Java, and Python.
+
+I have actively participated in hackathons, where I collaborated on innovative solutions and gained hands-on experience in software development. Additionally, I have worked on various web development projects, creating responsive and user-friendly websites. My enthusiasm for learning and applying new technologies drives me to continuously improve and take on challenging projects.
+
+With a keen interest in software development and engineering, I am eager to contribute my skills to real-world applications while expanding my expertise in the field.</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I enjoy building interactive and user-friendly websites, and I have worked on multiple projects that showcase my ability to design, develop, and optimize web solutions. My participation in hackathons has helped me enhance my problem-solving skills, work under pressure, and collaborate effectively in a team environment.
+
+Beyond coding, I have a keen interest in software development, automation, and UI/UX design, always exploring new technologies to improve my skill set. I thrive on challenges and continuously seek opportunities to learn, experiment, and grow in the tech industry.
+
+With a proactive mindset and a strong technical foundation, I am eager to contribute my knowledge and creativity to impactful projects and real-world applications.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 zain desai</p>
+    </footer>
+</body>
+</html>
